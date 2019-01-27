@@ -1,0 +1,25 @@
+/* Whole document: */
+body{
+  font-family: Microsoft JhengHei;
+  font-size: 12pt;
+}
+h3{
+	font-family: Microsoft JhengHei;
+	font-weight: bold;
+}
+em{
+	font-family: Microsoft JhengHei;
+	font-weight: italic;
+}
+h1{
+	font-family: Microsoft JhengHei;
+	font-weight: bold;
+}
+h4{
+	font-family: Microsoft JhengHei;
+	font-weight: bold;
+}
+h2{
+	font-family: Microsoft JhengHei;
+	font-weight: bold;
+}
